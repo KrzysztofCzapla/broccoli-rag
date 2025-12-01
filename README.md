@@ -12,7 +12,6 @@ It uses:
 - **FastAPI**, for our backend's API
 - **OLlama**, for local LLM model
 - **Qdrant**, as vector database
-- **Tiktoken**, for 
 - **Docker**, so we can do everything out of the box, no need for manual installation of each component
 
 ## Requirements
